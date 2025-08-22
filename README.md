@@ -1,7 +1,8 @@
 # Birds of Magdalena - eBird Data Analysis (2020–2025)
 
-This repository contains code and data processing workflows for analyzing eBird observation data from the highly biodiverse Magdalena region of Colombia, 2020 to 2025. The notebook outputs a CSV file to then import into Tableau for visual analysis (the end product, an interactive Tableau story, is accessible [here](https://public.tableau.com/app/profile/clara.hughes/viz/magdelena_birds_2020_2025/BirdsofMagdalena).) The main workflow is written as a Jupyter Notebook: `ebird_Magdalena_2020_25.ipynb`.
+This repository contains code and data processing workflows for analyzing eBird observation data from the highly biodiverse Magdalena region of Colombia, 2020 to 2025. The notebook outputs a CSV file to then import into Tableau for visual analysis (the end product, an interactive Tableau story, is accessible [here](https://public.tableau.com/app/profile/clara.hughes/viz/magdelena_birds_2020_2025/BirdsofMagdalena).) The main workflow is written as a Jupyter Notebook: `ebird_Magdalena_2020_25.ipynb`.  
 
+**<ins> Skills and Tools Used</ins>**: Python, pandas, DuckDB, Jupyter Notebooks, i-python/JupySQL
 ## Overview
 
 The notebook demonstrates how to:
